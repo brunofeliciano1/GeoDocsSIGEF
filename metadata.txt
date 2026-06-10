@@ -1,0 +1,18 @@
+[general]
+name=GeoDocs SIGEF
+description=Automated generation of technical documents for SIGEF/INCRA rural land regularization workflows.
+about=GeoDocs SIGEF is a QGIS plugin developed to support the preparation of technical documents for georeferenced rural properties in Brazil. It integrates data from SIGEF/INCRA PDF files, spreadsheets, QGIS layers and PostgreSQL/PostGIS databases. The plugin can generate descriptive memorials, analytical calculation sheets, cover pages with QR Code, technical reports, boundary respect declarations, adjoining owner declarations, waiver declarations, rectification requests and subdivision requests related to rural property certification and registry procedures.
+version=1.0.0
+qgisMinimumVersion=3.28
+qgisMaximumVersion=
+author=Bruno Feliciano
+email=brunofelicianodelima036@gmail.com
+category=Vector
+tags=SIGEF, INCRA, georeferencing, rural property, land registry, Brazil, memorial, technical documents, topography, PostgreSQL, PostGIS
+homepage=https://github.com/brunofeliciano1/GeoDocsSIGEF
+repository=https://github.com/brunofeliciano1/GeoDocsSIGEF
+tracker=https://github.com/brunofeliciano1/GeoDocsSIGEF/issues
+icon=icon.png
+experimental=False
+deprecated=False
+license=GPL-3.0-or-later
